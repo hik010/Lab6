@@ -1,1 +1,1 @@
-GitHub Pages:  https://github.com/hik010/Lab6.git 
+GitHub Pages: https://hik010.github.io/Lab6/
